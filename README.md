@@ -1,2 +1,2 @@
 # social-ads
-An ML forest classifier
+An ML random forest classifier 
